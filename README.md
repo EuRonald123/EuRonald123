@@ -37,8 +37,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/EuRonald123/count.svg?"  />
-</div>
-
 ###
