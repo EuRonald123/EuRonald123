@@ -1,21 +1,26 @@
 <h2 align="center">Olá, sejam bem vindos!</h2>
 
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EuRonald123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EuRonald123&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EuRonald123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EuRonald123&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
-<!--<img align="right" height="150" src="https://cdn.discordapp.com/attachments/857779532869926914/1340123026380951582/Meu_AVATAR.gif?ex=67b13653&is=67afe4d3&hm=20c00440b9851d987d40dabb267ba5e43e61e9b7cf00cd7bb13b9e7b0d279d1d&"  />-->
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/857779532869926914/1340123026380951582/Meu_AVATAR.gif?ex=67b13653&is=67afe4d3&hm=20c00440b9851d987d40dabb267ba5e43e61e9b7cf00cd7bb13b9e7b0d279d1d&"  />
 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
 
