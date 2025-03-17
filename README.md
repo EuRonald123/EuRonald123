@@ -8,7 +8,7 @@
 </div>
 
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/857779532869926914/1340123026380951582/Meu_AVATAR.gif?ex=67b13653&is=67afe4d3&hm=20c00440b9851d987d40dabb267ba5e43e61e9b7cf00cd7bb13b9e7b0d279d1d&"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1035930294613725214/1350982273557856337/Meu_AVATAR.gif?ex=67d8b7ca&is=67d7664a&hm=66a3d8c366e24fad2e831ff0d400d7a715ee80b10350e8bd368b9c0cda6803e0&"  />
 
 
 <div align="left">
